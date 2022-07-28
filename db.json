@@ -1,0 +1,614 @@
+{
+  "currentUser": {
+    "image": "https://raw.githubusercontent.com/mukhammadyn/product-images/main/user-images/image-zena.jpg",
+    "name": "Zena Kelley",
+    "username": "velvetround"
+  },
+  "productRequests": [
+    {
+      "id": 2,
+      "title": "Add a dark theme option",
+      "category": "feature",
+      "upvotes": 68,
+      "isUpvoted": false,
+      "status": "suggestion",
+      "description": "It would help people with light sensitivities and who prefer dark mode.",
+      "comments": [
+        {
+          "user": {
+            "name": "someone",
+            "username": "someone",
+            "image": "https:/picsum.photos/50/50"
+          },
+          "id": 22,
+          "content": "werfwerfwe"
+        },
+        {
+          "user": {
+            "name": "someone",
+            "username": "someone",
+            "image": "https:/picsum.photos/50/50"
+          },
+          "id": 20,
+          "content": "sdsfsdfd"
+        },
+        {
+          "id": 3,
+          "content": "Also, please allow styles to be applied based on system preferences. I would love to be able to browse Frontend Mentor in the evening after my device’s dark mode turns on without the bright background it currently has.",
+          "user": {
+            "image": "https://raw.githubusercontent.com/mukhammadyn/product-images/main/user-images/image-elijah.jpg",
+            "name": "Elijah Moss",
+            "username": "hexagon.bestagon"
+          }
+        },
+        {
+          "id": 4,
+          "content": "Second this! I do a lot of late night coding and reading. Adding a dark theme can be great for preventing eye strain and the headaches that result. It’s also quite a trend with modern apps and  apparently saves battery life.",
+          "user": {
+            "image": "https://raw.githubusercontent.com/mukhammadyn/product-images/main/user-images/image-james.jpg",
+            "name": "James Skinner",
+            "username": "hummingbird1"
+          },
+          "replies": [
+            {
+              "content": "While waiting for dark mode, there are browser extensions that will also do the job. Search for 'dark theme' followed by your browser. There might be a need to turn off the extension for sites with naturally black backgrounds though.",
+              "replyingTo": "hummingbird1",
+              "user": {
+                "image": "https://raw.githubusercontent.com/mukhammadyn/product-images/main/user-images/image-anne.jpg",
+                "name": "Anne Valentine",
+                "username": "annev1990"
+              }
+            },
+            {
+              "content": "Good point! Using any kind of style extension is great and can be highly customizable, like the ability to change contrast and brightness. I'd prefer not to use one of such extensions, however, for security and privacy reasons.",
+              "replyingTo": "annev1990",
+              "user": {
+                "image": "https://raw.githubusercontent.com/mukhammadyn/product-images/main/user-images/image-ryan.jpg",
+                "name": "Ryan Welles",
+                "username": "voyager.344"
+              }
+            }
+          ]
+        },
+        {
+          "user": {
+            "name": "someone",
+            "username": "someone",
+            "image": "https:/picsum.photos/50/50"
+          },
+          "id": 20,
+          "content": "sdsfsdfd"
+        },
+        {
+          "user": {
+            "name": "someone",
+            "username": "someone",
+            "image": "https:/picsum.photos/50/50"
+          },
+          "id": 22,
+          "content": "werfwerfwe"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Q&A within the challenge hubssdssdas",
+      "category": "UI",
+      "upvotes": 65,
+      "isUpvoted": true,
+      "status": "Suggestion",
+      "description": "Challenge-specific Q&A would make for easy reference.",
+      "comments": [
+        {
+          "user": {
+            "name": "someone",
+            "username": "someone",
+            "image": "https:/picsum.photos/50/50"
+          },
+          "id": 3,
+          "content": "sdfsdfsd"
+        },
+        {
+          "user": {
+            "name": "someone",
+            "username": "someone",
+            "image": "https:/picsum.photos/50/50"
+          },
+          "id": 21,
+          "content": "adsdasda"
+        },
+        {
+          "user": {
+            "name": "someone",
+            "username": "someone",
+            "image": "https:/picsum.photos/50/50"
+          },
+          "id": 20,
+          "content": "adasdad"
+        },
+        {
+          "user": {
+            "name": "someone",
+            "username": "someone",
+            "image": "https:/picsum.photos/50/50"
+          },
+          "id": 19,
+          "content": "weqewe"
+        },
+        {
+          "user": {
+            "name": "someone",
+            "username": "someone",
+            "image": "https:/picsum.photos/50/50"
+          },
+          "id": 18,
+          "content": "weqewe"
+        },
+        {
+          "user": {
+            "name": "someone",
+            "username": "someone",
+            "image": "https:/picsum.photos/50/50"
+          },
+          "id": 17,
+          "content": "weqewe"
+        },
+        {
+          "user": {
+            "name": "someone",
+            "username": "someone",
+            "image": "https:/picsum.photos/50/50"
+          },
+          "id": 16,
+          "content": "weqewe"
+        },
+        {
+          "id": 1,
+          "content": "Awesome idea! Trying to find framework-specific projects within the hubs can be tedious",
+          "user": {
+            "image": "https://raw.githubusercontent.com/mukhammadyn/product-images/main/user-images/image-suzanne.jpg",
+            "name": "Suzanne Chang",
+            "username": "upbeat1811"
+          }
+        },
+        {
+          "id": 2,
+          "content": "Please use fun, color-coded labels to easily identify them at a glance",
+          "user": {
+            "image": "https://raw.githubusercontent.com/mukhammadyn/product-images/main/user-images/image-thomas.jpg",
+            "name": "Thomas Hood",
+            "username": "brawnybrave"
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Ability to follow others",
+      "category": "feature",
+      "upvotes": 43,
+      "isUpvoted": true,
+      "status": "suggestion",
+      "description": "Stay updated on comments and solutions other people post.",
+      "comments": [
+        {
+          "user": {
+            "name": "someone",
+            "username": "someone",
+            "image": "https:/picsum.photos/50/50"
+          },
+          "id": 5,
+          "content": "aferf"
+        },
+        {
+          "user": {
+            "name": "someone",
+            "username": "someone",
+            "image": "https:/picsum.photos/50/50"
+          },
+          "id": 21,
+          "content": "adsdasda"
+        },
+        {
+          "user": {
+            "name": "someone",
+            "username": "someone",
+            "image": "https:/picsum.photos/50/50"
+          },
+          "id": 20,
+          "content": "adasdad"
+        },
+        {
+          "user": {
+            "name": "someone",
+            "username": "someone",
+            "image": "https:/picsum.photos/50/50"
+          },
+          "id": 19,
+          "content": "weqewe"
+        },
+        {
+          "user": {
+            "name": "someone",
+            "username": "someone",
+            "image": "https:/picsum.photos/50/50"
+          },
+          "id": 18,
+          "content": "weqewe"
+        },
+        {
+          "user": {
+            "name": "someone",
+            "username": "someone",
+            "image": "https:/picsum.photos/50/50"
+          },
+          "id": 17,
+          "content": "weqewe"
+        },
+        {
+          "user": {
+            "name": "someone",
+            "username": "someone",
+            "image": "https:/picsum.photos/50/50"
+          },
+          "id": 16,
+          "content": "weqewe"
+        },
+        {
+          "id": 1,
+          "content": "Awesome idea! Trying to find framework-specific projects within the hubs can be tedious",
+          "user": {
+            "image": "https://raw.githubusercontent.com/mukhammadyn/product-images/main/user-images/image-suzanne.jpg",
+            "name": "Suzanne Chang",
+            "username": "upbeat1811"
+          }
+        },
+        {
+          "id": 2,
+          "content": "Please use fun, color-coded labels to easily identify them at a glance",
+          "user": {
+            "image": "https://raw.githubusercontent.com/mukhammadyn/product-images/main/user-images/image-thomas.jpg",
+            "name": "Thomas Hood",
+            "username": "brawnybrave"
+          }
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "More comprehensive reports",
+      "category": "feature",
+      "upvotes": 3,
+      "isUpvoted": false,
+      "status": "planned",
+      "description": "It would be great to see a more detailed breakdown of solutions.",
+      "comments": [
+        {
+          "id": 10,
+          "content": "This would be awesome! It would be so helpful to see an overview of my code in a way that makes it easy to spot where things could be improved.",
+          "user": {
+            "image": "https://raw.githubusercontent.com/mukhammadyn/product-images/main/user-images/image-victoria.jpg",
+            "name": "Victoria Mejia",
+            "username": "arlen_the_marlin"
+          }
+        },
+        {
+          "id": 11,
+          "content": "Yeah, this would be really good. I'd love to see deeper insights into my code!",
+          "user": {
+            "image": "https://raw.githubusercontent.com/mukhammadyn/product-images/main/user-images/image-jackson.jpg",
+            "name": "Jackson Barker",
+            "username": "countryspirit"
+          }
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Learning paths",
+      "category": "feature",
+      "upvotes": 33,
+      "isUpvoted": false,
+      "status": "planned",
+      "description": "Sequenced projects for different goals to help people improve.",
+      "comments": [
+        {
+          "user": {
+            "name": "someone",
+            "username": "someone",
+            "image": "https:/picsum.photos/50/50"
+          },
+          "id": 8,
+          "content": ""
+        },
+        {
+          "id": 3,
+          "content": "Also, please allow styles to be applied based on system preferences. I would love to be able to browse Frontend Mentor in the evening after my device’s dark mode turns on without the bright background it currently has.",
+          "user": {
+            "image": "https://raw.githubusercontent.com/mukhammadyn/product-images/main/user-images/image-elijah.jpg",
+            "name": "Elijah Moss",
+            "username": "hexagon.bestagon"
+          }
+        },
+        {
+          "id": 4,
+          "content": "Second this! I do a lot of late night coding and reading. Adding a dark theme can be great for preventing eye strain and the headaches that result. It’s also quite a trend with modern apps and  apparently saves battery life.",
+          "user": {
+            "image": "https://raw.githubusercontent.com/mukhammadyn/product-images/main/user-images/image-james.jpg",
+            "name": "James Skinner",
+            "username": "hummingbird1"
+          },
+          "replies": [
+            {
+              "content": "While waiting for dark mode, there are browser extensions that will also do the job. Search for 'dark theme' followed by your browser. There might be a need to turn off the extension for sites with naturally black backgrounds though.",
+              "replyingTo": "hummingbird1",
+              "user": {
+                "image": "https://raw.githubusercontent.com/mukhammadyn/product-images/main/user-images/image-anne.jpg",
+                "name": "Anne Valentine",
+                "username": "annev1990"
+              }
+            },
+            {
+              "content": "Good point! Using any kind of style extension is great and can be highly customizable, like the ability to change contrast and brightness. I'd prefer not to use one of such extensions, however, for security and privacy reasons.",
+              "replyingTo": "annev1990",
+              "user": {
+                "image": "https://raw.githubusercontent.com/mukhammadyn/product-images/main/user-images/image-ryan.jpg",
+                "name": "Ryan Welles",
+                "username": "voyager.344"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "One-click portfolio generation",
+      "category": "feature",
+      "upvotes": 62,
+      "isUpvoted": false,
+      "status": "in-progress",
+      "description": "Add ability to create professional looking portfolio from profile.",
+      "comments": [
+        {
+          "id": 13,
+          "content": "I haven't built a portfolio site yet, so this would be really helpful. Might it also be possible to choose layout and colour themes?!",
+          "user": {
+            "image": "https://raw.githubusercontent.com/mukhammadyn/product-images/main/user-images/image-ryan.jpg",
+            "name": "Ryan Welles",
+            "username": "voyager.344"
+          }
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Bookmark challenges",
+      "category": "feature",
+      "upvotes": 31,
+      "isUpvoted": false,
+      "status": "in-progress",
+      "description": "Be able to bookmark challenges to take later on.",
+      "comments": [
+        {
+          "user": {
+            "name": "someone",
+            "username": "someone",
+            "image": "https:/picsum.photos/50/50"
+          },
+          "id": 10,
+          "content": ""
+        },
+        {
+          "id": 3,
+          "content": "Also, please allow styles to be applied based on system preferences. I would love to be able to browse Frontend Mentor in the evening after my device’s dark mode turns on without the bright background it currently has.",
+          "user": {
+            "image": "https://raw.githubusercontent.com/mukhammadyn/product-images/main/user-images/image-elijah.jpg",
+            "name": "Elijah Moss",
+            "username": "hexagon.bestagon"
+          }
+        },
+        {
+          "id": 4,
+          "content": "Second this! I do a lot of late night coding and reading. Adding a dark theme can be great for preventing eye strain and the headaches that result. It’s also quite a trend with modern apps and  apparently saves battery life.",
+          "user": {
+            "image": "https://raw.githubusercontent.com/mukhammadyn/product-images/main/user-images/image-james.jpg",
+            "name": "James Skinner",
+            "username": "hummingbird1"
+          },
+          "replies": [
+            {
+              "content": "While waiting for dark mode, there are browser extensions that will also do the job. Search for 'dark theme' followed by your browser. There might be a need to turn off the extension for sites with naturally black backgrounds though.",
+              "replyingTo": "hummingbird1",
+              "user": {
+                "image": "https://raw.githubusercontent.com/mukhammadyn/product-images/main/user-images/image-anne.jpg",
+                "name": "Anne Valentine",
+                "username": "annev1990"
+              }
+            },
+            {
+              "content": "Good point! Using any kind of style extension is great and can be highly customizable, like the ability to change contrast and brightness. I'd prefer not to use one of such extensions, however, for security and privacy reasons.",
+              "replyingTo": "annev1990",
+              "user": {
+                "image": "https://raw.githubusercontent.com/mukhammadyn/product-images/main/user-images/image-ryan.jpg",
+                "name": "Ryan Welles",
+                "username": "voyager.344"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Add micro-interactions",
+      "category": "enhancement",
+      "upvotes": 81,
+      "isUpvoted": false,
+      "status": "live",
+      "description": "Small animations at specific points can add delight.",
+      "comments": [
+        {
+          "user": {
+            "name": "someone",
+            "username": "someone",
+            "image": "https:/picsum.photos/50/50"
+          },
+          "id": 20,
+          "content": "asgsklgkldf\n"
+        },
+        {
+          "user": {
+            "name": "someone",
+            "username": "someone",
+            "image": "https:/picsum.photos/50/50"
+          },
+          "id": 19,
+          "content": "ergwer"
+        },
+        {
+          "id": 15,
+          "content": "I'd love to see this! It always makes me so happy to see little details like these on websites.",
+          "user": {
+            "image": "https://raw.githubusercontent.com/mukhammadyn/product-images/main/user-images/image-victoria.jpg",
+            "name": "Victoria Mejia",
+            "username": "arlen_the_marlin"
+          },
+          "replies": [
+            {
+              "content": "Me too! I'd also love to see celebrations at specific points as well. It would help people take a moment to celebrate their achievements!",
+              "replyingTo": "arlen_the_marlin",
+              "user": {
+                "image": "https://raw.githubusercontent.com/mukhammadyn/product-images/main/user-images/image-suzanne.jpg",
+                "name": "Suzanne Chang",
+                "username": "upbeat1811"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2022-06-18T05:29:16.839Z",
+      "title": "Ozgina xatolik chiqibdi",
+      "category": "Enhancement",
+      "upvotes": 2,
+      "isUpvoted": false,
+      "status": "suggestion",
+      "description": "aaaa",
+      "comments": []
+    },
+    {
+      "id": "2022-06-18T05:30:59.135Z",
+      "title": "Qui sunt voluptatum",
+      "category": "UI",
+      "upvotes": 3,
+      "isUpvoted": false,
+      "status": "suggestion",
+      "description": "lk",
+      "comments": []
+    },
+    {
+      "id": "2022-06-18T05:32:57.873Z",
+      "title": "Mollit esse velit om",
+      "category": "UI",
+      "upvotes": 2,
+      "isUpvoted": false,
+      "status": "suggestion",
+      "description": "Voluptatem neque tem",
+      "comments": []
+    },
+    {
+      "id": "2022-06-18T05:33:34.493Z",
+      "title": "Quasi tempor volupta",
+      "category": "UI",
+      "upvotes": 2,
+      "isUpvoted": false,
+      "status": "suggestion",
+      "description": "Cupidatat nihil sint",
+      "comments": [
+        {
+          "user": {
+            "name": "someone",
+            "username": "someone",
+            "image": "https:/picsum.photos/50/50"
+          },
+          "id": 18,
+          "content": ""
+        }
+      ]
+    },
+    {
+      "id": "2022-06-18T05:35:56.263Z",
+      "title": "Consequuntur beatae ",
+      "category": "UI",
+      "upvotes": 3,
+      "isUpvoted": false,
+      "status": "suggestion",
+      "description": "Amet quisquam saepe",
+      "comments": []
+    },
+    {
+      "id": "2022-06-18T05:36:35.942Z",
+      "title": "In labore porro cons",
+      "category": "UI",
+      "upvotes": 2,
+      "isUpvoted": false,
+      "status": "suggestion",
+      "description": "Minim earum dolor al",
+      "comments": []
+    },
+    {
+      "id": "2022-06-18T05:37:34.365Z",
+      "title": "Earum natus in quia ",
+      "category": "UI",
+      "upvotes": 2,
+      "isUpvoted": false,
+      "status": "suggestion",
+      "description": "Nam et quia exercita",
+      "comments": [
+        {
+          "user": {
+            "name": "someone",
+            "username": "someone",
+            "image": "https:/picsum.photos/50/50"
+          },
+          "id": 18,
+          "content": "zxvzcv"
+        }
+      ]
+    }
+  ],
+  "suggestionFilter": [
+    {
+      "name": "UI",
+      "isActive": false,
+      "category": "UI",
+      "id": "1"
+    },
+    {
+      "name": "UX",
+      "isActive": false,
+      "category": "UX",
+      "id": "2"
+    },
+    {
+      "name": "Enhancement",
+      "isActive": false,
+      "category": "Enhancement",
+      "id": "3"
+    },
+    {
+      "name": "Bug",
+      "isActive": false,
+      "category": "Bug",
+      "id": "4"
+    },
+    {
+      "name": "Feature",
+      "isActive": false,
+      "category": "Feature",
+      "id": "5"
+    }
+  ]
+}
